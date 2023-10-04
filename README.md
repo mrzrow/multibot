@@ -4,4 +4,5 @@ This Telegram bot provides the current price of the selected cryptocurrency base
 ### Commands:
 
 `/help` - displays the help information.
+
 `/crypto [currencies]` - displays currency exchange rates.
